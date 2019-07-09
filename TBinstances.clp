@@ -1,0 +1,2 @@
+(clinc of ClinicalData (StudyOID "S_101")(MetaDataVersionOID "v1.0.0-S_101"))
+(subjectData of SubjectData (StudyOID "S_101") (MetaDataVersionOID "v1.0.0-S_101")(SubjectKey "SS_101001") (OpenClinica:StudySubjectID "101-001"))
